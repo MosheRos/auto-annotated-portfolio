@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: full
+    backgroundSize: inset
     title: Drose Linens
     subtitle: ''
     styles:
